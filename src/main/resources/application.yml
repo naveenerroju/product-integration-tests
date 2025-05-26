@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: product-integration-tests
+  data:
+    mongodb:
+      database: productdb
+      port: 27017
+      host: localhost
